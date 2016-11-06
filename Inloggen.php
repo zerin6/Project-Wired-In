@@ -27,7 +27,7 @@
 
 
 
-        <form action="bar/include.php">
+    <form action="connect.php" method="post">
 
 
             <div class="container">
@@ -49,4 +49,5 @@
 
 </body>
 </html>
+
 
