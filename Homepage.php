@@ -18,16 +18,19 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <!--top links-->
     <a class="btn" href="Homepage.php">Home     </a>&nbsp;
-    <a class="btn" href="Inloggen.php">Inloggen </a>&nbsp;
+    <a class="btn" href="login/Inloggen.php">Inloggen </a>&nbsp;
     <a class="btn" href="Contact.php">Contact   </a>&nbsp;
     <a class="btn" href="Recensie.php">Recensie </a>&nbsp;
 
     <img src="Kabeltrans.png" style="float: left;"> <br /><br /><br /><br /><br /><br /><br />
+<div id="box">
 
 
+</div>
 
+<!--side menu + opmaak-->
     <ul>
         <li><a href="bar_v2/catagorie.php">Catagorie</a></li>
         <li><a href="bar_v2/audiokabel.php">Audiokabels</a></li>

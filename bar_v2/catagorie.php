@@ -18,7 +18,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
     <a href="../Homepage.php">Home     </a>&nbsp;
-    <a href="../Inloggen.php">Inloggen </a>&nbsp;
+    <a href="../login/Inloggen.php">Inloggen </a>&nbsp;
     <a href="../Contact.php">Contact   </a>&nbsp;
     <a href="../Recensie.php">Recensie </a>&nbsp;
 
