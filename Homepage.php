@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,6 +26,7 @@
     <a class="btn" href="login/Inloggen.php">Inloggen </a>&nbsp;
     <a class="btn" href="Contact.php">Contact   </a>&nbsp;
     <a class="btn" href="Recensie.php">Recensie </a>&nbsp;
+    <a href="login/logout.php"> Uitloggen</a>
 
     <img src="Kabeltrans.png" style="float: left;"> <br /><br /><br /><br /><br /><br /><br />
 <div id="box">

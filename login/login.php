@@ -1,23 +1,20 @@
 <?php
 session_start();
-
 include 'dbh.php';
 
+$uid = $_POST['uid'];
+$pwd = $_POST['pwd'];
 
-    $uid = $_POST['uid'];
-    $pwd = $_POST['pwd'];
+$sql = "SELECT * FROM user WHERE uid='$uid' AND pwd='$pwd'";
 
-    echo $uid."<br>";
-    echo $pwd."<br>";
-
-$sql = "SELECT * FROM user WHERE uid='$uid' AND pwd='$pwd'" ;
 $result = mysqli_query($conn, $sql);
 
-if (!$row = $result-> fetch_assoc()){
-    echo "your username of password is incorrect!"
-} else {
+if (!$row = mysqli_fetch_assoc($result)) {
+    echo "Username of Wachtwoord is verkeerd!"; }
+else {
     $_SESSION['id'] = $row['id'];
 }
 
-header("Location: index.php");
-?>
+
+
+header("Location: ../Homepage.php");
