@@ -50,7 +50,7 @@ session_start();
     </form>
     <br/>
     <?php if(isset($_SESSION['id']))  {
-        echo "Ingeloged";
+        echo "Je bent succesvol ingelogd!";
     } else {
         echo "Je bent niet ingelogd!";
     }
