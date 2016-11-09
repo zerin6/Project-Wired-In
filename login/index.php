@@ -13,7 +13,7 @@ session_start();
     <title>Add Employee</title>
 </head>
 <body>
-<formaction="login.php" method="POST">
+<form action="login.php" method="POST">
     <input type="text" placeholder="uid" name="uid" required><br/>
     <input type="password" placeholder="Password" name="pwd" required><br/>
     <button type="submit" name="send">LOGIN</button>
@@ -23,7 +23,9 @@ session_start();
 <?php
 if (isset($_SESSION['id'])){
     echo $_SESSION['id'];
-} echo "niet logged in"
+} else {
+    echo "NIET";
+}
 ?>
 
 <form action="signup.php" method="POST">

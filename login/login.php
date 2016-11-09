@@ -17,4 +17,4 @@ else {
 
 
 
-header("Location: ../Homepage.php");
+header("Location: Inloggen.php");

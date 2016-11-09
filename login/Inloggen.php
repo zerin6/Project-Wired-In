@@ -36,10 +36,10 @@ session_start();
 
         <div class="container">
             <label><b>Username</b></label>
-            <input type="text" placeholder="Enter Username" name="first" required>
+            <input type="text" placeholder="uid" name="uid" required><br/>
 
             <label><b>Password</b></label>
-            <input type="password" placeholder="Enter Password" name="psw" required>
+            <input type="password" placeholder="Password" name="pwd" required><br/>
 
             <button type="submit">Inloggen</button>
         </div>
@@ -49,10 +49,11 @@ session_start();
         </div>
     </form>
     <br/>
-    <?php if(isset($_SESSION['id']))  {
-        echo "Je bent succesvol ingelogd!";
+    <?php
+    if (isset($_SESSION['id'])){
+        echo $_SESSION['id'];
     } else {
-        echo "Je bent niet ingelogd!";
+        echo "Niet logged in!";
     }
     ?>
 
