@@ -61,21 +61,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een kabel voor het opladen van de XBOX ONE controler.<br /> &nbsp;&nbsp;Aansluiting 1: micro usb male <br /> &nbsp;&nbsp;Aansluiting 2: usb male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br />&nbsp;&nbsp;Prijs: € 14,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -89,22 +76,8 @@ img {
   <p><h4> &nbsp;&nbsp;Dit is een oplaadkabel voor de Playstaton 4 controller.<br /> &nbsp;&nbsp;Aansluiting 1: micro USB male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br />&nbsp;&nbsp;Prijs: € 14,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
 
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
 
   </div>
    ____________________________________________________________________________________________________________________________
@@ -117,21 +90,8 @@ img {
   <img src= "http://image.allekabels.nl/image/1351115-0/play-charge-kabel-voor-xbox-360-play-charge-kabel-voor-xbox-360.jpg" style="width:200px;height:180px;">
  <p><h4> &nbsp;&nbsp;Dit is een oplaadkabel voor de XBOX 360 controller.<br /> &nbsp;&nbsp;Aansluiting 1: XBOX 360 male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 2 meter<br /><br />&nbsp;&nbsp;Prijs: € 9,99</h4>
  </p>
-   	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 

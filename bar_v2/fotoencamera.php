@@ -60,21 +60,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een Hirose kabel voor de camera.<br /> &nbsp;&nbsp;Aansluiting 1: USB male <br /> &nbsp;&nbsp;Aansluiting 2: Hirose male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br />&nbsp;&nbsp;Prijs: € 9,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -88,22 +75,8 @@ img {
   <p><h4> &nbsp;&nbsp;Dit is een camera met een haakse aansluiting.<br /> &nbsp;&nbsp;Aansluiting 1: USB male <br /> &nbsp;&nbsp;Aansluiting 2: 5pin mini USB male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br /> &nbsp;&nbsp;Prijs: € 5,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
 
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
 
   </div>
    ____________________________________________________________________________________________________________________________
@@ -116,21 +89,8 @@ img {
   <img src= "http://image.allekabels.nl/image/1054685-0/usb-micro-kabel-1.8-meter.jpg" style="width:200px;height:180px;">
  <p><h4> &nbsp;&nbsp;Dit is een micro usb kabel voor de camera.<br /> &nbsp;&nbsp;Aansluiting 1: micro USB male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 10 meter<br /><br />&nbsp;&nbsp;Prijs: € 5,99</h4>
  </p>
-   	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 

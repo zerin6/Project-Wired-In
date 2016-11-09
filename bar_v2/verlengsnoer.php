@@ -60,21 +60,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een haspel met 4 aansluitingen.<br /> &nbsp;&nbsp;Spanning: 230V <br /> &nbsp;&nbsp;Maximale stroomsterkte 10A <br /> &nbsp;&nbsp;Lengte: 5 meter <br /><br />&nbsp;&nbsp;Prijs: € 19,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -83,27 +70,13 @@ img {
 	<div>
 <div class="w3-container">
   <h2>Kabelhaspel met 4 aansluitingen</h2>
-   <img src= "http://image.allekabels.nl/image/1393027-0/kabelhaspel-4-voudig-25-meter-kabellengte-25-meter.jpg" style="width:140px;height:180px;">
+   <img src= "http://image.allekabels.nl/image/1393027-0/kabelhaspel-4-voudig-25-meter-kabellengte-25-meter.jpg" style="width:100px;height:140px;">
  
   <p><h4> &nbsp;&nbsp;Dit is een kabelhaspel met 4 aansluitingen.<br /> &nbsp;&nbsp;Spanning: 230V <br /> &nbsp;&nbsp;Maximale stroomsterkte 16A <br /> &nbsp;&nbsp;Lengte: 15 meter <br /><br />&nbsp;&nbsp;Prijs: € 49,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
 
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
 
   </div>
    ____________________________________________________________________________________________________________________________
@@ -116,21 +89,8 @@ img {
   <img src= "http://image.allekabels.nl/image/1294074-0/case-reel-with-cable-routing-br-cable-length-40m-4x-cee-7-4-sockets-child.jpg" style="width:180px;height:180px;">
  <p><h4> &nbsp;&nbsp;Dit is een haspel met 4 aansluitingen<br /> &nbsp;&nbsp;Spanning: 230V<br /> &nbsp;&nbsp;Maximale stroomsterkte 16A <br /> &nbsp;&nbsp;Lengte: 40 meter<br /><br />&nbsp;&nbsp;Prijs: € 56,99</h4>
  </p>
-   	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 

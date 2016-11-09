@@ -61,21 +61,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een Lightning naar USB kabel geschikt voor Apple apparten.<br /> &nbsp;&nbsp;Aansluiting 1: Lightning male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br />&nbsp;&nbsp;Prijs: € 4,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -89,22 +76,8 @@ img {
   <p><h4> &nbsp;&nbsp;Dit is een Samsung oplaad kabel.<br /> &nbsp;&nbsp;Aansluiting 1: micro USB male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 2 meter <br /><br />&nbsp;&nbsp;Prijs: € 2,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
 
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
 
   </div>
    ____________________________________________________________________________________________________________________________
@@ -117,21 +90,8 @@ img {
   <img src= "http://image.allekabels.nl/image/1057406-0/dock-connector-usb-kabel-1-meter.jpg" style="width:200px;height:180px;">
  <p><h4> &nbsp;&nbsp;Dit is een Apple dock connector naar USB kabel.<br /> &nbsp;&nbsp;Aansluiting 1: Dock connector male <br /> &nbsp;&nbsp;Aansluiting 2: USB male <br /> &nbsp;&nbsp;Lengte: 5 meter<br /><br />&nbsp;&nbsp;Prijs: € 13,99</h4>
  </p>
-   	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 

@@ -60,21 +60,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een zwarte audio jack kabel van 3.5mm.<br /> &nbsp;&nbsp;Aansluiting 1: male 3.5mm <br /> &nbsp;&nbsp;Aansluiting 2: male 3.5mm <br /><br /> &nbsp;&nbsp;Prijs € 1,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -88,21 +75,7 @@ img {
   <p><h4> &nbsp;&nbsp;Dit is een rode audio jack kabel van 3.5mm.<br /> &nbsp;&nbsp;Aansluiting 1: male 3.5mm <br /> &nbsp;&nbsp;Aansluiting 2: male 3.5mm <br /><br /> &nbsp;&nbsp;Prijs € 2,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
   </div>
    ____________________________________________________________________________________________________________________________
 
@@ -114,21 +87,8 @@ img {
   <img src= "http://image.allekabels.nl/image/1196961-0/jack-kabel-wit-3-meter.jpg" style="width:200px;height:180px;">
  <p><h4> &nbsp;&nbsp;Dit is een witte audio jack kabel van 3.5mm.<br /> &nbsp;&nbsp;Aansluiting 1: male 3.5mm <br /> &nbsp;&nbsp;Aansluiting 2: male 3.5mm <br /><br /> &nbsp;&nbsp;Prijs € 0,99</h4>
  </p>
-   	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 

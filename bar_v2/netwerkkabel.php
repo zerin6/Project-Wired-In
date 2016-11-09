@@ -60,21 +60,8 @@ img {
   <p>
   	<h4>&nbsp;&nbsp;Dit is een witte UTP kabel.<br /> &nbsp;&nbsp;Aansluiting 1: male <br /> &nbsp;&nbsp;Aansluiting 2: male <br /> &nbsp;&nbsp;Lengte: 10 meter <br /><br />&nbsp;&nbsp;Prijs: € 6,99</h4>
   	</p>
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+        <button type="button" onclick=" "></button>
 </div>
  ____________________________________________________________________________________________________________________________
 
@@ -88,22 +75,7 @@ img {
   <p><h4> &nbsp;&nbsp;Dit is een zwarte UTP kabel.<br /> &nbsp;&nbsp;Aansluiting 1: male <br /> &nbsp;&nbsp;Aansluiting 2: male <br /> &nbsp;&nbsp;Lengte: 15 meter <br /><br />&nbsp;&nbsp;Prijs: € 9,99</h4>
   </p>
 
-  	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+    <button type="button" onclick=" "></button>
 
   </div>
    ____________________________________________________________________________________________________________________________
@@ -117,20 +89,8 @@ img {
  <p><h4> &nbsp;&nbsp;Dit is een grijze UTP kabel.<br /> &nbsp;&nbsp;Aansluiting 1: male <br /> &nbsp;&nbsp;Aansluiting 2: male <br /> &nbsp;&nbsp;Lengte: 20 meter<br /><br />&nbsp;&nbsp;Prijs: € 12,99</h4>
  </p>
    	<h5>Aantal:</h5>
-  <select>
-  <option value=" "> </option>
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>
-<button type="button" onclick="alert('Toegevoegd aan winkelwagen')">Bestel!</button>
+
+    <button type="button" onclick=" "></button>
 
   </div>
 
