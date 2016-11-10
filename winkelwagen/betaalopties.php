@@ -4,7 +4,7 @@
 <header>
     <title>Betaalopties algemeen</title>
 </header>
-<link rel="stylesheet" type="text/css" href="styles.css"/>
+<link rel="stylesheet" type="text/css" href="../styles.css"/>
 <body>
 
 <div class = "mainContainer"
@@ -17,10 +17,10 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="Homepage.php">Home     </a>&nbsp;
-<a href="Inloggen.php">Inloggen </a>&nbsp;
-<a href="Contact.php">Contact   </a>&nbsp;
-<a href="Recensie.php">Recensie </a>&nbsp;
+<a href="../Homepage.php">Home </a>&nbsp;
+<a href="../Inloggen.php">Inloggen </a>&nbsp;
+<a href="../Contact.php">Contact   </a>&nbsp;
+<a href="../Recensie.php">Recensie </a>&nbsp;
 
 <img src="Kabeltrans.png" style="float: left;"> <br /><br /><br /><br /><br /><br /><br />
 

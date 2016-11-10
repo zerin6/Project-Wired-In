@@ -13,4 +13,4 @@ VALUES ('$voornaam', '$achternaam', '$adres', '$postcode')";
 
 $result = mysqli_query($conn, $sql);
 
-header("Location: geplaatst.php");
+header("Location: betaalopties.php");

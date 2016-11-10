@@ -103,10 +103,10 @@ $connect = mysqli_connect("localhost", "root", "", "test");
 
               <font size="5">	Postcode:</font>
             <input type="text" name="postcode" required><br>
-  <input type="submit" value="Verstuur"><br>
+  <input type="submit" value="Verstuur"
             </p>
 			
-					<a href="betaalopties.php"> betalen</a>
+				
 		</form>
 			<p class="outset"> </p>
            <br> <br />
