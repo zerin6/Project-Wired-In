@@ -5,14 +5,16 @@ $connect = mysqli_connect("localhost", "root", "", "test");
 <!doctype html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Winkelwagen</title>
 
+<title>Winkelwagen</title>
+<style> p.outset {border-style: outset;} </style>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
 
 
 </head>
 <body>
+
 <div class="container" style="width:60%;">
 	<h2 align="center">Producten bestellen</h2>
     <?php
@@ -80,5 +82,42 @@ $connect = mysqli_connect("localhost", "root", "", "test");
     </table>
     </div>
     </div>
+	</link>
+	
+<center>
+<div>
+<span>
+		<h1> Adresgegevens </h>
+		<br> <br />
+<p class="outset">
+		   <form action = "bestellingplaatsen.php" method = "POST">
+		   
+          <font size="5">	Voornaam:</font>
+            <input type="text" name="voornaam" required><br>
+
+              <font size="5">	Achternaam:</font>
+            <input type="text" name="achternaam" required><br>
+
+              <font size="5">	Adres en huisnummer:</font>
+            <input type="text" name="adresenhuisnummer" required><br>
+
+              <font size="5">	Postcode:</font>
+            <input type="text" name="postcode" required><br>
+  <input type="submit" value="Verstuur"><br>
+            </p>
+			
+					<a href="betaalopties.php"> betalen</a>
+		</form>
+			<p class="outset"> </p>
+           <br> <br />
+    
+		
+	
+
+
+	</center>
+	</span>
+	</div>
+	
  </body>
 </html>
