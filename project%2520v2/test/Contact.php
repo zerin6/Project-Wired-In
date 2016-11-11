@@ -39,6 +39,9 @@ session_start();
 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+    <?php /*het formulier hieronder roept het bestand 'Dankuwel.php' op. De data die hier ingevoerd wordt
+    gaat dus automatisch naar de database. */?>
+    
         <form action="Dankuwel.php" method="POST">
             Voornaam:<br />
             <input type="text" name="Voornaam" required><br>
@@ -54,10 +57,11 @@ session_start();
 
             Bericht:<br />
             <input type="text" name="Bericht" required><br>
-            <input type="submit" value="Verstuur" a href="Contactdank.php"><br>
-
+            <input type="submit" value="Verstuur"><br>
+     <?php /*wanneer je op submit klikt word je doorverwezen naar een lege pagina met een bevestigingsbericht, 
+            waarna je automatisch weer naar 'Contact.php' wordt doorverwezen */ ?>
         </form>
-
-</body>
+    </div>
+    </body>
 </html>
 
